@@ -26,7 +26,6 @@ const App = () => {
             setLogin_status("");
         }, 3000);
     }
- 
 
     let password_errors = [];
     let email_errors = [];
